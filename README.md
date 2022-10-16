@@ -15,7 +15,10 @@
     <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
     <br>
 
-![logo](https://github.com/miguelgargallo/ultimate-guide-surrealdb-rust/blob/main/img/icon.png?raw%3Dtrue)
+<a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
+        <img width="300" src="/img/logo.png" alt="SurrealDB Logo">
+    </a>
+
 
  - [How to Turn on SurrealDB](01-How-to-turn-on-SurrealDB.md)
  - [How to CONNECT on SurrealDB](02-How-to-connect-into-SurrealDB.md)
