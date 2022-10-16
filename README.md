@@ -8,10 +8,9 @@
     </a>
 </p>
 <h3 align="center">
-    <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
+    <a>This is the Ultimate Guide <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
         <img src="/img/white/text.svg" height="15" alt="SurrealDB">
-    </a>
-    <a>This is the Ultimate Guide <a href="https://surrealdb.com#gh-light-mode-only" target="_blank">
+    </a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank">
         <img src="/img/black/text.svg" height="15" alt="SurrealDB">
     </a>
     Rust <br> in the world, written by Miguel Gargallo, to plug & play.
