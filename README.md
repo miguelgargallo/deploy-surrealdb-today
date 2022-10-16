@@ -1,8 +1,7 @@
-# ultimate-guide-surrealdb-rust
-Ultimate Guide Surrealdb Rust
+# Ultimate Guide Surrealdb Rust
 <br>
 
-<h1 align="center">Official guides</h1>
+<h1 align="center">Ultimate Guide Surrealdb Rust</h1>
 
 <br>
 
