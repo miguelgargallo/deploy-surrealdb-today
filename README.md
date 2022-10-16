@@ -3,9 +3,9 @@
     <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
         <img width="300" src="/img/white/logo.svg" alt="SurrealDB Logo">
     </a>
-    <p align="center">Guide written by Miguel Gargallo</p>
-
-   
+    <p align="center">
+    Guide written by Miguel Gargallo
+    </p>
 </p>
 <br>
 <h1 align="center">
@@ -14,6 +14,8 @@
     </a> Rust </h1>
     <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
     <br>
+
+![logo](https://github.com/miguelgargallo/ultimate-guide-surrealdb-rust/blob/main/img/icon.png?raw%3Dtrue)
 
  - [How to Turn on SurrealDB](01-How-to-turn-on-SurrealDB.md)
  - [How to CONNECT on SurrealDB](02-How-to-connect-into-SurrealDB.md)
