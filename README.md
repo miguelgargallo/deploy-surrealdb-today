@@ -1,4 +1,3 @@
-# Ultimate Guide Surrealdb Rust
 <br>
 
 <h1 align="center">Ultimate Guide Surrealdb Rust</h1>
