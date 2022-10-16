@@ -11,7 +11,7 @@
     <a>Ultimate Guide <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
         <img src="/img/white/text.svg" height="15" alt="SurrealDB">
     </a>
-    Rust <br> in the world, written by Miguel Gargallo, to plug & play.
+    Rust <br> <a>in the world, written by Miguel Gargallo, to plug & play.</a>
 </h3>
 <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
 <br>
