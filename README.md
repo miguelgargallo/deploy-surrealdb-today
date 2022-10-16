@@ -1,16 +1,16 @@
 <br>
 <p align="center">
-    <a href="https://github.com/miguelgargallo/ultimate-guide-surrealdb-rust" target="_blank">
+    <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
         <img width="300" src="/img/white/logo.svg" alt="SurrealDB Logo">
     </a>
     <p align="center">Guide written by Miguel Gargallo</p>
-    <a href="https://github.com/miguelgargallo/ultimate-guide-surrealdb-rust" target="_blank">
+    <a href="https://surrealdb.com#gh-light-mode-only" target="_blank">
         <img width="300" src="/img/black/logo.svg" alt="SurrealDB Logo">
     </a>
 </p>
 <br>
 <h1 align="center">
-    <a>Ultimate Guide <a href="https://github.com/miguelgargallo/ultimate-guide-surrealdb-rust" target="_blank">
+    <a>Ultimate Guide <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
         <img src="/img/white/text.svg" height="15" alt="SurrealDB">
     </a> Rust </h1>
     <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
