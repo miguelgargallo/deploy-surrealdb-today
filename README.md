@@ -15,7 +15,7 @@
     <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
     <br>
 
-<a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
+<a href="https://github.com/miguelgargallo/ultimate-guide-surrealdb-rust/blob/main/img/icon.png?raw%3Dtrue" target="_blank">
         <img width="300" src="/img/logo.png" alt="SurrealDB Logo">
     </a>
 
