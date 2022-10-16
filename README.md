@@ -25,7 +25,7 @@
 
 <h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;How to CREATE SurrealDB?</h2>
 
- <img height="20" src="/img/whatissurreal.svg"> [How to CREATE SurrealDB](03-How-to-create-on-SurrealDB.md)
+ <img height="20" src="/img/whatissurreal.svg"><h2>How to CREATE SurrealDB[](03-How-to-create-on-SurrealDB.md)
 
 <h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;How to SELECT SurrealDB?</h2>
 
