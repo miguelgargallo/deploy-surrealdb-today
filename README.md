@@ -3,7 +3,7 @@
     <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
         <img width="300" src="/img/white/logo.svg" alt="SurrealDB Logo">
     </a>
-    <p align="center">Written by Miguel Gargallo</p>
+    <p align="center">Guide written by Miguel Gargallo</p>
     <a href="https://surrealdb.com#gh-light-mode-only" target="_blank">
         <img width="300" src="/img/black/logo.svg" alt="SurrealDB Logo">
     </a>
