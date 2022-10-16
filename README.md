@@ -1,11 +1,8 @@
 <br>
-
 <p align="center">
     <img width="300" src="/img/icon.png" alt="SurrealDB Icon">
 </p>
-
 <br>
-
 <p align="center">
     <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
         <img width="300" src="/img/white/logo.svg" alt="SurrealDB Logo">
@@ -14,7 +11,6 @@
         <img width="300" src="/img/black/logo.svg" alt="SurrealDB Logo">
     </a>
 </p>
-
 <h3 align="center">
     <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
         <img src="/img/white/text.svg" height="15" alt="SurrealDB">
@@ -24,23 +20,10 @@
     </a>
     Rust <br> in the world, written by Miguel Gargallo, to plug & play.
 </h3>
-
 <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
-
 <br>
-
-
-
-<br>
-
-<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
-
-<br>
-
 <h1 align="center">Ultimate Guide Surrealdb Rust</h1>
-
 <br>
-
  - [How to Turn on SurrealDB](01-How-to-turn-on-SurrealDB.md) - Written by [Miguel Gargallo](https://github.com/miguelgargallo) | [Twitter](https://twitter.com/miguelgargallo)
  - [How to CONNECT on SurrealDB](02-How-to-connect-into-SurrealDB) - Written by [Miguel Gargallo](https://github.com/miguelgargallo) | [Twitter](https://twitter.com/miguelgargallo)
  - [How to CREATE SurrealDB](03-How-to-create-on-SurrealDB.md) - Written by [Miguel Gargallo](https://github.com/miguelgargallo) | [Twitter](https://twitter.com/miguelgargallo)
