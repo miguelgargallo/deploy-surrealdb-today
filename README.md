@@ -8,12 +8,13 @@
         <img width="300" src="/img/black/logo.svg" alt="SurrealDB Logo">
     </a>
 </p>
-<h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
 <br>
 <h1 align="center">
     <a>Ultimate Guide <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
         <img src="/img/white/text.svg" height="15" alt="SurrealDB">
-    </a> Rust </h1><br>
+    </a> Rust </h1>
+    <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
+    <br>
 
  - [How to Turn on SurrealDB](01-How-to-turn-on-SurrealDB.md) - Written by [Miguel Gargallo](https://github.com/miguelgargallo) | [Twitter](https://twitter.com/miguelgargallo)
  - [How to CONNECT on SurrealDB](02-How-to-connect-into-SurrealDB) - Written by [Miguel Gargallo](https://github.com/miguelgargallo) | [Twitter](https://twitter.com/miguelgargallo)
