@@ -19,15 +19,18 @@
 
  - [How to Turn on SurrealDB](01-How-to-turn-on-SurrealDB.md)
 
-<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
-
-<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
-
-<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
-
-<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
+<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;How to CONNECT on SurrealDB?</h2>
 
  - [How to CONNECT on SurrealDB](02-How-to-connect-into-SurrealDB.md)
+
+<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;How to CREATE SurrealDB?</h2>
+
  - [How to CREATE SurrealDB](03-How-to-create-on-SurrealDB.md)
+
+<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;How to SELECT SurrealDB?</h2>
+
  - [How to SELECT SurrealDB](04-How-to-select-on-SurrealDB.md)
+
+<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;How to RELATE SurrealDB?</h2>
+
  - [How to RELATE SurrealDB](05-How-to-relate-on-SurrealDB.md)
