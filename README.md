@@ -15,17 +15,17 @@
     <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
     <br>
 
-<h2 href="01-How-to-turn-on-SurrealDB.md"><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;How to Turn on SurrealDB?</h2>
-
-<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
-
-<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
-
-<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
-
-<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
-
+<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;How to Turn on SurrealDB?</h2>
  - [How to Turn on SurrealDB](01-How-to-turn-on-SurrealDB.md)
+
+<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
+
+<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
+
+<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
+
+<h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;What is SurrealDB?</h2>
+
  - [How to CONNECT on SurrealDB](02-How-to-connect-into-SurrealDB.md)
  - [How to CREATE SurrealDB](03-How-to-create-on-SurrealDB.md)
  - [How to SELECT SurrealDB](04-How-to-select-on-SurrealDB.md)
