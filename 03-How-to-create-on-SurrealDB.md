@@ -14,7 +14,9 @@
 
 Input:
 
+```powershell
 	CREATE user:1 SET name='no-reply', email='no-reply@surrealdb.com', age=28
+```
 
 Output:
 
@@ -35,7 +37,9 @@ Output:
 
 Input:
 
+```powershell
 	CREATE item:1 SET name='Item Two', price=20
+```
 
 Output:
 
