@@ -6,13 +6,9 @@
     <p align="center">
     Guide written by Miguel Gargallo
     </p>
-</p>
-<br>
-
-<br>
-  <h1 align="center">How to Turn on SurrealDB</h1>
-<p>
-  Written by <a href="https://github.com/miguelgargallo" target="_blank">Miguel Gargallo</a>, support on <a href="https://twitter.com/miguelgargallo" target="_blank">Twitter</a>.
+    <h1 align="center">
+        How to Turn on SurrealDB
+    </h1>
 </p>
 <br>
 
