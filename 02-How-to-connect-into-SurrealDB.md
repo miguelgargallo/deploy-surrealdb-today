@@ -7,5 +7,5 @@
 
 ## Connect into SurrealDB
 
-    surreal sql --conn http://0.0.0.0:8000 --user typeanyusername --pass SecurePa$$w0rd --ns type --db form --pretty
+    surreal sql --conn http://0.0.0.0:8000 --user root --pass A$ecur3Pa$$w0rd --ns type --db form --pretty
 
