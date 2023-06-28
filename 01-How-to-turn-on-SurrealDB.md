@@ -12,7 +12,7 @@
 </p>
 <br>
 
-## Turn on Surrealdb
+## Turn on SurrealDB
 
 	surreal start --log trace --user root --pass A$ecur3Pa$$w0rd --bind 0.0.0.0:8000
 
