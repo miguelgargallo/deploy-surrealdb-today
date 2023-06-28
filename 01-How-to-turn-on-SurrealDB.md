@@ -14,7 +14,7 @@
 
 ## Turn on SurrealDB
 
-Input
+Input:
 
 ```powershell
 	surreal start --log trace --user root --pass A$ecur3Pa$$w0rd --bind 0.0.0.0:8000
