@@ -7,5 +7,5 @@
 
 ## Turn on Surrealdb
 
-	surreal start --log trace --user pepo --pass Presu$check --bind 0.0.0.0:8001
+	surreal start --log trace --user root --pass A$ecur3Pa$$w0rd --bind 0.0.0.0:8000
 
