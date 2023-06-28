@@ -1,7 +1,14 @@
 <br>
-  <h1 align="center">How to CREATE on SurrealDB</h1>
-<p>
-  Written by <a href="https://github.com/miguelgargallo" target="_blank">Miguel Gargallo</a>, support on <a href="https://twitter.com/miguelgargallo" target="_blank">Twitter</a>.
+<p align="center">
+    <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
+        <img width="300" src="/img/white/logo.svg" alt="SurrealDB Logo">
+    </a>
+    <p align="center">
+    Guide written by Miguel Gargallo
+    </p>
+    <h1 align="center">
+        How to CREATE on SurrealDB
+    </h1>
 </p>
 <br>
 
