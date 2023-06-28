@@ -14,7 +14,7 @@
 
 ## Connect into SurrealDB
 
-Input
+Input:
 
 ```powershell
     surreal sql --conn http://0.0.0.0:8000 --user root --pass A$ecur3Pa$$w0rd --ns type --db form --pretty
