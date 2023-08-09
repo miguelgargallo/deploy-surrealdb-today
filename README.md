@@ -8,15 +8,15 @@
     </p>
 </p>
 <br>
+  <h4 align="center">
+         <a href="https://itamaesan.org" target="_blank"> ITANAESAB ORG </a>
+        supports this project, a free open source code foundation.
+    </h4>   
 <h1 align="center">
     <a>Deploy <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
         <img src="/img/white/text.svg" height="15" alt="SurrealDB">
     </a> Today </h1>
-    <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>
-    <h4 align="center">
-         <a href="https://itamaesan.org" target="_blank"> ITANAESAB ORG </a>
-        supports this project, a free open source code foundation.
-    </h4>        
+    <h3 align="center">Read. &nbsp; Code. &nbsp; Deploy.</h3>     
     <br>
 
 <h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;How to Turn on SurrealDB?</h2>
