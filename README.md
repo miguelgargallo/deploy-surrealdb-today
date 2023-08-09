@@ -34,3 +34,5 @@
 <h2><img height="20" src="/img/whatissurreal.svg">&nbsp;&nbsp;How to RELATE SurrealDB?</h2>
 
  - [How to RELATE SurrealDB](05-How-to-relate-on-SurrealDB.md)
+
+* [ITAMAESAN ORG](https://itamaesan.org) Supports this project, a free open source code foundation.
