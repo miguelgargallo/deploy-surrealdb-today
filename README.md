@@ -4,14 +4,12 @@
         <img width="300" src="/img/white/logo.svg" alt="SurrealDB Logo">
     </a>
     <p align="center">
-    Guide written by Miguel Gargallo
-    </p>
-</p>
-<br>
-  <h4 align="center">
+    Guide written by Miguel Gargallo and 
          <a href="https://itamaesan.org" target="_blank"> ITANAESAB ORG </a>
         supports this project, a free open source code foundation.
-    </h4>   
+    </p>
+</p>
+<br> 
 <h1 align="center">
     <a>Deploy <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank">
         <img src="/img/white/text.svg" height="15" alt="SurrealDB">
